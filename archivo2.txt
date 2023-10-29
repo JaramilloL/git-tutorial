@@ -1,1 +1,3 @@
 este es un archivo creado en una rama 2 para hacer cambios mas adelante
+
+aquie haremos el stash
