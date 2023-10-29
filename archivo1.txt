@@ -1,1 +1,3 @@
 en este archivo trabaharemos con el estado temporal de los cambios es decir que vamos a trabajar con git stash, el cual hace modificaciones y se guardan pero no se commitean
+
+esta segunda lib=nes es para crear un git stash de manera temporal 
